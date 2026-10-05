@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="200%" height="200" alt="a9499f98-2678-446a-9253-2a0114b2ab4e" src="https://media.discordapp.net/attachments/1488176216065183766/1540818059525095505/Untitled7_20260823041910.png?ex=6aae45e4&is=6aacf464&hm=741f39585d2d58b4a3931be2eced3a7509c87d72a69a6aea182d3dd17bf56675&=&format=webp&quality=lossless" />
-
-<br>
-<br>
-<br>
+<img width="200%" height="400" alt="a9499f98-2678-446a-9253-2a0114b2ab4e" src="https://github.com/user-attachments/assets/5983879a-d29b-46b9-83df-a80fefe285bc" />
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
@@ -58,9 +54,7 @@
 
 <div align="center">
   
-<img width="100%" height="200" alt="0049fdff-94de-44d7-87ed-7e4ad74bc5ad" src="https://media.discordapp.net/attachments/1488176216065183766/1540818059525095505/Untitled7_20260823041910.png?ex=6aae45e4&is=6aacf464&hm=741f39585d2d58b4a3931be2eced3a7509c87d72a69a6aea182d3dd17bf56675&=&format=webp&quality=lossless" />
-
-<br>
+<img width="200%" height="400" alt="0049fdff-94de-44d7-87ed-7e4ad74bc5ad" src="https://github.com/user-attachments/assets/5983879a-d29b-46b9-83df-a80fefe285bc" />
 
 <p align="center">
   <img width="150" height="100" alt="fuckassuglyassdove" src="https://github.com/user-attachments/assets/60b5ed56-8fd0-493e-a0e6-b7e6a0e60f31" />
